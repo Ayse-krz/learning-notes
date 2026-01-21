@@ -1,0 +1,2 @@
+Day 1:
+Created my first GitHub repository.
