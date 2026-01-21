@@ -1,0 +1,3 @@
+Variables are used to store data.
+Example:
+int x = 5;
